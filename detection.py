@@ -222,6 +222,7 @@ def main():
                             # Process the image and create stitched version
                             contours, image = process_image(image_path)
                             stitched_image, stitching_points = detect_wound_and_stitches(image.copy(), contours, num_stitching_points=5)
+                            print(f"Stitched Points: {stitching_points}")
                             send_data_to_arduino(stitching_points)
                             pygame.image.save(pygame.surfarray.make_surface(stitched_image), "output_image.jpg")
                             message_text = "Image Processed Successfully!"
