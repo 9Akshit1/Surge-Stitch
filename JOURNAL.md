@@ -17,6 +17,6 @@ One thing I learned today was about the different railway systems like the V-rai
 Will need to also fix the servo's attachment mounts because they are too big right now. I think if I just finish a basic CAD by the weekend, and then finish the circuit + some of the computer vision code, then I can present it to a professor (I think it was UC Berkely and JHK that are the only competitors?) possibly and ask for their advice. Since, I have the Ingenious grant as well, we should be able to make a IRL prototype, but before that, we definetily need advice.
 My goal is to actually implement Surge Stitch into hospitals or somewhere in the real world, because that shows impactful community impact + it leaves my mark on the world (yippee).
 
-https://github.com/9Akshit1/Surge-Stitch/blob/5864a22ebd408ecbbfb1fb9b35c7d2cac03f4a5c/CAD_au7.png
+![CAD](https://github.com/9Akshit1/Surge-Stitch/blob/5864a22ebd408ecbbfb1fb9b35c7d2cac03f4a5c/CAD_au7.png)
 
 **Time Spent: 3h**
